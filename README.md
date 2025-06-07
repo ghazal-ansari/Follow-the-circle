@@ -1,8 +1,8 @@
-📌 Overview
+### 📌 Overview
 
 "Circle Click Game" is a fast-paced browser game where players try to click on a moving circle as many times as possible before time runs out. It’s fun, minimalist, and a great test of your reflexes.
 
-⚙️ Features
+### ⚙️ Features
 
 🎯 Random circle repositioning
 
@@ -18,7 +18,7 @@
 
 🎨 Blue-themed visual style
 
-💡 How to Play
+### 💡 How to Play
 
 Open the game in your browser
 
@@ -30,7 +30,7 @@ Keep clicking until the timer reaches 0
 
 See your final score and try again to improve
 
-🚀 Tech Stack
+### 🚀 Tech Stack
 
 HTML5
 
@@ -38,7 +38,7 @@ CSS3 (Blue aesthetic theme)
 
 JavaScript (Vanilla JS)
 
-🔧 Setup
+### 🔧 Setup
 
 Clone the repo:
 
