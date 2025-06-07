@@ -1,6 +1,6 @@
 ### 📌 Overview
 
-"Circle Click Game" is a fast-paced browser game where players try to click on a moving circle as many times as possible before time runs out. It’s fun, minimalist, and a great test of your reflexes.
+"Follow The Cricle" is a fast-paced browser game where players try to click on a moving circle as many times as possible before time runs out. It’s fun, minimalist, and a great test of your reflexes.
 
 ### ⚙️ Features
 
