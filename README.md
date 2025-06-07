@@ -4,46 +4,46 @@
 
 ### ⚙️ Features
 
-🎯 Random circle repositioning
+* 🎯 Random circle repositioning
 
-🖱️ Mouse click-based interaction
+* 🖱️ Mouse click-based interaction
 
-🧠 Live score tracking
+* 🧠 Live score tracking
 
-⏱️ 60-second countdown timer
+* ⏱️ 60-second countdown timer
 
-🌀 Smooth circle animation
+* 🌀 Smooth circle animation
 
-💻 Responsive layout
+* 💻 Responsive layout
 
-🎨 Blue-themed visual style
+* 🎨 Blue-themed visual style
 
 ### 💡 How to Play
 
-Open the game in your browser
+1. Open the game in your browser
 
-Click the blue circle when it appears
+2. Click the blue circle when it appears
 
-Each click gives you +1 score
+3. Each click gives you +1 score
 
-Keep clicking until the timer reaches 0
+4. Keep clicking until the timer reaches 0
 
-See your final score and try again to improve
+5. See your final score and try again to improve
 
 ### 🚀 Tech Stack
 
-HTML5
+* HTML5
 
-CSS3 (Blue aesthetic theme)
+* CSS3 (Blue aesthetic theme)
 
-JavaScript (Vanilla JS)
+* JavaScript (Vanilla JS)
 
 ### 🔧 Setup
 
-Clone the repo:
-
+1. Clone the repo:
+```bash
 git clone https://github.com/ghazal-ansari/circle-click-game.git
+```
+2. Navigate to the folder and open index.html in your browser.
 
-Navigate to the folder and open index.html in your browser.
-
-Click the circle and enjoy!
+3. Click the circle and enjoy!
