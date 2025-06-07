@@ -2,15 +2,15 @@
 
 A fast-paced reflex game where you click a moving circle as many times as you can before time runs out. It's simple, addictive, and great for sharpening your reaction speed!
 
-📸 Preview
+1. 📸 Preview
 
 
 
-🚀 Live Demo
+2. 🚀 Live Demo
 
 Play the Game
 
-📂 How It Works
+3. 📂 How It Works
 
 A blue circle randomly jumps around the screen.
 
@@ -22,11 +22,11 @@ The game runs for a limited time (default: 60 seconds).
 
 Final score is shown at the end.
 
-🕹️ Controls
+4. 🕹️ Controls
 
 Mouse Click – Hit the moving circle to score.
 
-💻 Built With
+5. 💻 Built With
 
 HTML5
 
@@ -34,7 +34,7 @@ CSS3
 
 JavaScript (Vanilla)
 
-🛠️ Features
+6. 🛠️ Features
 
 Score counter
 
@@ -46,7 +46,8 @@ Fully responsive layout
 
 Clean blue aesthetic theme
 
-📆 Getting Started
+
+7. 📆 Getting Started
 
 Clone this repository:
 
@@ -55,3 +56,4 @@ git clone https://github.com/your-username/circle-click-game.git
 Navigate to the folder and open index.html in your browser.
 
 Click the circle and have fun!
+
