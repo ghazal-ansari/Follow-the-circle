@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fa">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Tap the Circle!</title>
+  <style>
+    body {
+      margin: 0;
+      height: 100vh;
+      overflow: hidden;
+      background: #e6f0ff;
+      font-family: sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+    }
+
+    #circle {
+      width: 60px;
+      height: 60px;
+      background: #0d5bee;
+      border-radius: 50%;
+      position: absolute;
+      cursor: pointer;
+      transition: top 0.2s, left 0.2s;
+      box-shadow: 0 0 15px #3f7fff;
+    }
+
+    #score {
+      font-size: 24px;
+      color: #0b2074;
+      margin-bottom: 20px;
+    }
+
+    #guide {
+      font-size: 30px;
+      color: #07185c;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="guide">Tap the Circle to earn points!</div>
+  <div id="score">score: 0</div>
+  <div id="circle"></div>
+
+  <script>
+    const circle = document.getElementById('circle');
+    const scoreDisplay = document.getElementById('score');
+    let score = 0;
+
+    function moveCircle() {
+      const x = Math.random() * (window.innerWidth - 60);
+      const y = Math.random() * (window.innerHeight - 60);
+      circle.style.left = `${x}px`;
+      circle.style.top = `${y}px`;
+    }
+
+    circle.addEventListener('click', () => {
+      score++;
+      scoreDisplay.textContent = `score: ${score}`;
+      moveCircle();
+    });
+
+
+    moveCircle();
+  </script>
+</body>
+
+</html>
