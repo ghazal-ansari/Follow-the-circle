@@ -1,29 +1,57 @@
-🎯 Circle Click Game
-A fun little browser game where your goal is to click the moving circle as many times as possible before time runs out. It's simple, responsive, and addictive.
+🌟 Circle Click Game
 
-🔹 Features
-Moving target that changes position
+A fast-paced reflex game where you click a moving circle as many times as you can before time runs out. It's simple, addictive, and great for sharpening your reaction speed!
 
-Timer-based gameplay
+📸 Preview
 
-Score tracking
 
-Responsive and minimal design
 
-📦 How to Play
-Open the index.html file in your browser.
+🚀 Live Demo
 
-Click the blue circle as fast as you can.
+Play the Game
 
-Each click gives you a point.
+📂 How It Works
 
-The circle moves after each click.
+A blue circle randomly jumps around the screen.
 
-Try to score as high as possible before time runs out!
+Your job is to click it as fast and as accurately as possible.
 
-🧠 Tech Stack
-HTML
+Each click gives you +1 score and moves the circle to a new location.
 
-CSS
+The game runs for a limited time (default: 60 seconds).
 
-JavaScript
+Final score is shown at the end.
+
+🕹️ Controls
+
+Mouse Click – Hit the moving circle to score.
+
+💻 Built With
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+🛠️ Features
+
+Score counter
+
+Smooth circle movement
+
+Timer countdown
+
+Fully responsive layout
+
+Clean blue aesthetic theme
+
+📆 Getting Started
+
+Clone this repository:
+
+git clone https://github.com/your-username/circle-click-game.git
+
+Navigate to the folder and open index.html in your browser.
+
+Click the circle and have fun!
